@@ -2,25 +2,27 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # React Medium Clone
 
-This React medium board application is intended to publish articles. Equipped with registration, liking, tagging, front-side pagination options.
+React Medium Clone application is intended to publish articles. Equipped with registration, liking, tagging, front-side pagination options.
 
 ## Uses
 
-- React
+- React 16.13
 - React Router
 - Context
 - Hooks
 - Axios
 - Classnames
 
-## Installation and usage
+## Installation
 
-- Be sure that Git and Node.js are installed globally.
-- Clone this repo.
-- Run `npm install`, all required components will be installed automatically.
-- Run `npm start` to start the project.
-- Run `npm build` to create a build directory with a production build of the app.
-- Run `npm test` to test the app.
+- Clone this repository into the choosen folder.
+- Run `yarn` to install all dependencies automatically.
+
+## Usage
+
+- Run `yarn start` to start the application.
+- Run `yarn build` to create a build directory with a production build of the application.
+- Run `yarn test` to test the application.
 
 ## License
 
